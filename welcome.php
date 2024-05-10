@@ -54,8 +54,8 @@
                 <a href="index.html" class="nav-item nav-link active">Home</a>
                 <a href="about.html" class="nav-item nav-link">About</a>
                 <a href="service.html" class="nav-item nav-link">Services</a>
-                <a href="login.php" class="nav-item nav-link">Login</a>
-                <a href="register.php" class="nav-item nav-link">Register</a>
+                <a href="./auth/login.php" class="nav-item nav-link">Login</a>
+                <a href="./auth/register.php" class="nav-item nav-link">Register</a>
                 <a href="contact.html" class="nav-item nav-link">Contact</a>
             </div>
             <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>+012 345 6789</h4>
